@@ -1,2 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Editing Scripts"/>
+<index version="1" name="Editing Scripts" commit="b762c5bda3627adbf23c1ab6739ea297c55ea0b1">
+  <category name="Audio Editing">
+    <reapack name="GU-on_Package.lua" type="script" desc="Items Editing">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Offers relative fade processing\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="GU-on" time="2020-05-16T15:49:16Z">
+        <changelog><![CDATA[+ Initial commit]]></changelog>
+        <source main="main" file="GU-on_Item Fader.lua">https://github.com/gu-on/ReaScripts/raw/b762c5bda3627adbf23c1ab6739ea297c55ea0b1/Audio%20Editing/GU-on_Item%20Fader.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
