@@ -1,5 +1,10 @@
--- @version 1.0
--- @noindex
+--[[
+ * ReaScript Name: Swap Project Marker Names with Marker Notes
+ * Author: GU-on
+ * Licence: GPL v3
+ * REAPER: 6.19
+ * Version: 1.0
+--]]
 
 --[[
  * Changelog:
