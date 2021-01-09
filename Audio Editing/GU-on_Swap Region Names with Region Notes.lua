@@ -1,10 +1,7 @@
---[[
- * ReaScript Name: Swap Project Marker Names with Subtitles
- * Author: GU-on
- * Licence: GPL v3
- * REAPER: 6.19
- * Version: 1.0
---]]
+-- @description Swap_RegionNameWithNote
+-- @author GU-on
+-- @version 1.0
+-- @noindex
 
 --[[
  * Changelog:

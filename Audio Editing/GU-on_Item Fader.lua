@@ -1,4 +1,6 @@
--- @version 1.0
+-- @description ItemFader_GUI
+-- @author GU-on
+-- @version 1.1
 -- @noindex
 
 --[[

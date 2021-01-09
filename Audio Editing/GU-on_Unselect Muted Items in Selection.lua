@@ -1,10 +1,7 @@
---[[
- * ReaScript Name: Unselect Muted Items in Selection
- * Author: GU-on
- * Licence: GPL v3
- * REAPER: 6.19
- * Version: 1.0
---]]
+-- @description UnselectMutedItemInSelection
+-- @author GU-on
+-- @version 1.0
+-- @noindex
 
 --[[
  * Changelog:
