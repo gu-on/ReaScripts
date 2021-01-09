@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="GU-on Scripts" commit="28817c52cf5b7cebb2d015dc41bf7770f8cb7dc6">
+<index version="1" name="GU-on Scripts" commit="3b8754c41a587f588a4ddab0b9949f62991aaf83">
   <category name="Audio Editing">
     <reapack name="GU-on_Package.lua" type="script" desc="GU-on Scripts">
       <metadata>
@@ -14,6 +14,24 @@
       <version name="1.0" author="GU-on" time="2020-05-16T15:49:16Z">
         <changelog><![CDATA[+ Initial commit]]></changelog>
         <source main="main" file="GU-on_Item Fader.lua">https://github.com/gu-on/ReaScripts/raw/b762c5bda3627adbf23c1ab6739ea297c55ea0b1/Audio%20Editing/GU-on_Item%20Fader.lua</source>
+      </version>
+    </reapack>
+    <reapack name="GU-on_Swap Marker Names with Marker Notes.lua" type="script" desc="Swap Project Marker Names with Marker Notes">
+      <version name="1.0" author="GU-on" time="2021-01-09T17:15:59Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/gu-on/ReaScripts/raw/3b8754c41a587f588a4ddab0b9949f62991aaf83/Audio%20Editing/GU-on_Swap%20Marker%20Names%20with%20Marker%20Notes.lua</source>
+      </version>
+    </reapack>
+    <reapack name="GU-on_Swap Region Names with Region Notes.lua" type="script" desc="Swap Project Region Names with Region Notes">
+      <version name="1.0" author="GU-on" time="2021-01-09T17:15:59Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/gu-on/ReaScripts/raw/3b8754c41a587f588a4ddab0b9949f62991aaf83/Audio%20Editing/GU-on_Swap%20Region%20Names%20with%20Region%20Notes.lua</source>
+      </version>
+    </reapack>
+    <reapack name="GU-on_Unselect Muted Items in Selection.lua" type="script" desc="Unselect Muted Items in Selection">
+      <version name="1.0" author="GU-on" time="2021-01-09T17:15:59Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/gu-on/ReaScripts/raw/3b8754c41a587f588a4ddab0b9949f62991aaf83/Audio%20Editing/GU-on_Unselect%20Muted%20Items%20in%20Selection.lua</source>
       </version>
     </reapack>
   </category>
