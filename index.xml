@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Editing Scripts" commit="b0309207fb4c8625dd81ec724524efdb0e0f787f">
+<index version="1" name="Editing Scripts" commit="25d325f8652401c4942da1895f228a80444939b1">
   <category name="Audio Editing">
-    <reapack name="GU-on_Package.lua" type="script" desc="Items Editing">
+    <reapack name="GU-on_Package.lua" type="script" desc="GU-on Scripts">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -26,6 +26,12 @@
       <version name="1.0" author="GU-on" time="2021-01-09T16:15:28Z">
         <changelog><![CDATA[+ Initial Release]]></changelog>
         <source main="main">https://github.com/gu-on/ReaScripts/raw/b0309207fb4c8625dd81ec724524efdb0e0f787f/Audio%20Editing/GU-on_Swap%20Region%20Names%20with%20Region%20Notes.lua</source>
+      </version>
+    </reapack>
+    <reapack name="GU-on_Unselect Muted Items in Selection.lua" type="script" desc="Unselect Muted Items in Selection">
+      <version name="1.0" author="GU-on" time="2021-01-09T16:23:32Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/gu-on/ReaScripts/raw/25d325f8652401c4942da1895f228a80444939b1/Audio%20Editing/GU-on_Unselect%20Muted%20Items%20in%20Selection.lua</source>
       </version>
     </reapack>
   </category>
