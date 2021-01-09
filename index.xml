@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Editing Scripts" commit="25d325f8652401c4942da1895f228a80444939b1">
+<index version="1" name="GU-on Scripts" commit="25d325f8652401c4942da1895f228a80444939b1">
   <category name="Audio Editing">
     <reapack name="GU-on_Package.lua" type="script" desc="GU-on Scripts">
       <metadata>
