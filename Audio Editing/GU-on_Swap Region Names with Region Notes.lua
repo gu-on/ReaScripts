@@ -1,5 +1,3 @@
--- @description Swap_RegionNameWithNote
--- @author GU-on
 -- @version 1.0
 -- @noindex
 
