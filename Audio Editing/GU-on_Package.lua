@@ -1,5 +1,5 @@
 --[[
- ReaScript Name: Items Editing
+ ReaScript Name: GU-on Scripts
  MetaPackage: true
  Author: GU-on
  REAPER: 6+
