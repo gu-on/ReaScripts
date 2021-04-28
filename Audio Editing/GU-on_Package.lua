@@ -9,7 +9,10 @@
   [Main] GU-on_Item Fader.lua
   [Main] GU-on_Swap Marker Names with Marker Notes.lua
   [Main] GU-on_Swap Region Names with Region Notes.lua
+  [Main] GU-on_Select Muted Items in Selection.lua
   [Main] GU-on_Unselect Muted Items in Selection.lua
+  [Main] GU-on_Set Time After Snap Offset.lua
+  [Main] GU-on_Set Time Before Snap Offset.lua
  About:
   A collection of my custom scripts
 --[[

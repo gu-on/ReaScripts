@@ -16,6 +16,8 @@
 
 console = false -- true/false: display debug messages in the console
 
+------------------------------------------------------- END OF USER CONFIG AREA
+
 function main()
 	for i = 0, count_markers_and_regions - 1 do
 		local retval, isrgnOut, posOut, rgnendOut, nameOut, markrgnindexnumberOut =  reaper.EnumProjectMarkers( i )
@@ -46,7 +48,7 @@ count_markers_and_regions = reaper.CountProjectMarkers(0)
 
 main()
 
-reaper.Undo_EndBlock("Revert Marker/Subtitle Name", - 1) -- End of the undo block. Leave it at the bottom of your main function.
+reaper.Undo_EndBlock("Swap Marker/Subtitle Name", - 1) -- End of the undo block. Leave it at the bottom of your main function.
 
 reaper.UpdateArrange()
 
