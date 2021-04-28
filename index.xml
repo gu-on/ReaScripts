@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="GU-on Scripts" commit="ee30cd1136e0d122c3ac90d528fd08e53142ab01">
+<index version="1" name="GU-on Scripts" commit="141f96254280cd61159c2244fa28828fe30011ad">
   <category name="Audio Editing">
     <reapack name="GU-on_Package.lua" type="script" desc="GU-on Scripts">
       <metadata>
@@ -22,16 +22,16 @@
         <source main="main">https://github.com/gu-on/ReaScripts/raw/ee30cd1136e0d122c3ac90d528fd08e53142ab01/Audio%20Editing/GU-on_Select%20Muted%20Items%20in%20Selection.lua</source>
       </version>
     </reapack>
-    <reapack name="GU-on_Set Time After Snap Offset.lua" type="script" desc="GU-on Set Time After Snap Offset">
-      <version name="1.0" author="GU-on" time="2021-04-28T13:44:48Z">
+    <reapack name="GU-on_Set Time After Offset.lua" type="script" desc="GU-on Set Time After Snap Offset">
+      <version name="1.0" author="GU-on" time="2021-04-28T15:19:25Z">
         <changelog><![CDATA[+ Initial Release]]></changelog>
-        <source main="main">https://github.com/gu-on/ReaScripts/raw/ee30cd1136e0d122c3ac90d528fd08e53142ab01/Audio%20Editing/GU-on_Set%20Time%20After%20Snap%20Offset.lua</source>
+        <source main="main">https://github.com/gu-on/ReaScripts/raw/141f96254280cd61159c2244fa28828fe30011ad/Audio%20Editing/GU-on_Set%20Time%20After%20Offset.lua</source>
       </version>
     </reapack>
-    <reapack name="GU-on_Set Time Before Snap Offset.lua" type="script" desc="GU-on Set Time Before Snap Offset">
-      <version name="1.0" author="GU-on" time="2021-04-28T13:44:48Z">
+    <reapack name="GU-on_Set Time Before Offset.lua" type="script" desc="GU-on Set Time Before Snap Offset">
+      <version name="1.0" author="GU-on" time="2021-04-28T15:19:25Z">
         <changelog><![CDATA[+ Initial Release]]></changelog>
-        <source main="main">https://github.com/gu-on/ReaScripts/raw/ee30cd1136e0d122c3ac90d528fd08e53142ab01/Audio%20Editing/GU-on_Set%20Time%20Before%20Snap%20Offset.lua</source>
+        <source main="main">https://github.com/gu-on/ReaScripts/raw/141f96254280cd61159c2244fa28828fe30011ad/Audio%20Editing/GU-on_Set%20Time%20Before%20Offset.lua</source>
       </version>
     </reapack>
     <reapack name="GU-on_Swap Marker Names with Marker Notes.lua" type="script" desc="Swap Project Marker Names with Marker Notes">
