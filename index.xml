@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="GU-on Scripts" commit="4c1cbec1c5dc12d9a3bb19995b612c05d92e14fe">
+<index version="1" name="GU-on Scripts" commit="ee30cd1136e0d122c3ac90d528fd08e53142ab01">
   <category name="Audio Editing">
     <reapack name="GU-on_Package.lua" type="script" desc="GU-on Scripts">
       <metadata>
@@ -14,6 +14,24 @@
       <version name="1.0" author="GU-on" time="2020-05-16T15:49:16Z">
         <changelog><![CDATA[+ Initial commit]]></changelog>
         <source main="main" file="GU-on_Item Fader.lua">https://github.com/gu-on/ReaScripts/raw/b762c5bda3627adbf23c1ab6739ea297c55ea0b1/Audio%20Editing/GU-on_Item%20Fader.lua</source>
+      </version>
+    </reapack>
+    <reapack name="GU-on_Select Muted Items in Selection.lua" type="script" desc="Select Muted Items in Selection">
+      <version name="1.0" author="GU-on" time="2021-04-28T13:44:48Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/gu-on/ReaScripts/raw/ee30cd1136e0d122c3ac90d528fd08e53142ab01/Audio%20Editing/GU-on_Select%20Muted%20Items%20in%20Selection.lua</source>
+      </version>
+    </reapack>
+    <reapack name="GU-on_Set Time After Snap Offset.lua" type="script" desc="GU-on Set Time After Snap Offset">
+      <version name="1.0" author="GU-on" time="2021-04-28T13:44:48Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/gu-on/ReaScripts/raw/ee30cd1136e0d122c3ac90d528fd08e53142ab01/Audio%20Editing/GU-on_Set%20Time%20After%20Snap%20Offset.lua</source>
+      </version>
+    </reapack>
+    <reapack name="GU-on_Set Time Before Snap Offset.lua" type="script" desc="GU-on Set Time Before Snap Offset">
+      <version name="1.0" author="GU-on" time="2021-04-28T13:44:48Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/gu-on/ReaScripts/raw/ee30cd1136e0d122c3ac90d528fd08e53142ab01/Audio%20Editing/GU-on_Set%20Time%20Before%20Snap%20Offset.lua</source>
       </version>
     </reapack>
     <reapack name="GU-on_Swap Marker Names with Marker Notes.lua" type="script" desc="Swap Project Marker Names with Marker Notes">
